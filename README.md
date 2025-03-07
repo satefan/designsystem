@@ -21,7 +21,7 @@ Adapt your Node version to `^20.17.0`, for example using `nvm`:
 
 ```bash
 # Choose the right Node version
-$ nvm use 20.17
+$ nvm use 22.12.0
 ```
 
 ## Run Storybook
